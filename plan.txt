@@ -1,3 +1,4 @@
 - Make a model of the manipulator in Gazebo
+- Find weights, sizes, moments of inertia etc. 
 - Make a simple motion to test the model. 
 - Design controller and path planning
