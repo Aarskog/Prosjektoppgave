@@ -1,0 +1,3 @@
+- Make a model of the manipulator in Gazebo
+- Make a simple motion to test the model. 
+- Design controller and path planning
